@@ -1,0 +1,28 @@
+.test {
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.dropdown-li {
+  display: flex;
+  margin: 10px;
+  align-items: center;
+}
+
+.icon {
+  height: 25px;
+  width: 25px;
+  color: #FB2056;
+  margin-right: 10px;
+}
+
+.dropdown-span {
+  font-family: "Roboto";
+  font-weight: 500;
+}
+
+.line {
+  width: 100%;
+  border: 1px solid #FB2056;
+  margin: 5px 0px 3px 0px;
+}

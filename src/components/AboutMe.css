@@ -1,0 +1,25 @@
+.title {
+  padding: 20px;
+  text-align: center;
+}
+
+.introduction {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.introContent {
+  margin-top: 20px;
+  font-weight: 500;
+}
+
+.highlight {
+  color: #FB2056;
+}
+
+
+@media (min-width: 1008px) {
+  .fullscreen-text {
+    width: 50%;
+  }
+}
