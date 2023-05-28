@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.aaeee0e9.css",
+    "main.js": "/portfolio/static/js/main.4c424f61.js",
+    "static/media/hire-stellar-developer.jpg": "/portfolio/static/media/hire-stellar-developer.21c0f68b4c0d238f0e6c.jpg",
+    "static/media/chill-photo.jpg": "/portfolio/static/media/chill-photo.2664418daddb1a370d91.jpg",
+    "static/media/contact.jpg": "/portfolio/static/media/contact.84bfe42ff76d0541c43b.jpg",
+    "static/media/moonquake.png": "/portfolio/static/media/moonquake.4ea26c8d49256510070c.png",
+    "static/media/github-user.png": "/portfolio/static/media/github-user.930c66e550e83094a7e9.png",
+    "static/media/planets-info.png": "/portfolio/static/media/planets-info.ec886ec877a67f0ce65b.png",
+    "static/media/laptop_code_programming_212332_1440x900.jpg": "/portfolio/static/media/laptop_code_programming_212332_1440x900.02d233ede2102a308eb3.jpg",
+    "static/media/interactive-rating.png": "/portfolio/static/media/interactive-rating.80f3b9bf7d7adca62950.png",
+    "index.html": "/portfolio/index.html",
+    "main.aaeee0e9.css.map": "/portfolio/static/css/main.aaeee0e9.css.map",
+    "main.4c424f61.js.map": "/portfolio/static/js/main.4c424f61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaeee0e9.css",
+    "static/js/main.4c424f61.js"
+  ]
+}
