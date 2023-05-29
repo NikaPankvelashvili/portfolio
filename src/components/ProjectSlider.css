@@ -17,6 +17,7 @@
   width: 100%;
   object-fit: cover;
   height: 70vh;
+  user-select: none;
 }
 
 .swiper-title {
@@ -32,6 +33,7 @@
   width: 50%;
   color: white;
   text-decoration: none;
+  user-select: none;
 }
 
 .swiper-title:hover {

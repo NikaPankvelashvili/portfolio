@@ -1,14 +1,11 @@
 import React, { useEffect, useRef } from 'react';
-import { useInView } from 'react-intersection-observer';
 import Header from './components/header/Header';
 import './App.css';
 import AboutMe from './components/AboutMe';
 import SkillBars from './components/SkillBars';
 import PhotoWithText from './components/PhotoWithText';
-import FirstPhoto from './images/hire-stellar-developer.jpg'
 import ChillPhoto from './images/chill-photo.jpg'
 import SecondPhoto from './images/laptop_code_programming_212332_1440x900.jpg'
-import ThirdPhoto from './images/contact.jpg'
 import ProjectSlider from './components/ProjectSlider';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
