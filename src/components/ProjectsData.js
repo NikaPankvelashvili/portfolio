@@ -1,7 +1,8 @@
 import Photo1 from '../images/moonquake.png'
 import Photo2 from '../images/planets-info.png'
-import Photo3 from '../images/github-user.png'
-import Photo4 from '../images/interactive-rating.png'
+import Photo3 from '../images/blogpost.png'
+import Photo4 from '../images/github-user.png'
+import Photo5 from '../images/interactive-rating.png'
 
 
 
@@ -20,14 +21,20 @@ export const projectsData = [
   },
   {
     id: 3,
-    title: "GitHub User Search",
+    title: "Blog Post",
     img: Photo3,
-    link: "http://nikapankvelashvili.github.io/github-user-search"
+    link: "https://blog-nextjs-6bbbwfhqq-nikapankvelashvili.vercel.app/"
   },
   {
     id: 4,
-    title: "Interactive Rating",
+    title: "GitHub User Search",
     img: Photo4,
+    link: "http://nikapankvelashvili.github.io/github-user-search"
+  },
+  {
+    id: 5,
+    title: "Interactive Rating",
+    img: Photo5,
     link: "http://nikapankvelashvili.github.io/interactive-rating"
   },
 ]
