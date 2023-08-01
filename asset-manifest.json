@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c0abecfb.css",
-    "main.js": "/portfolio/static/js/main.0cff989a.js",
+    "main.js": "/portfolio/static/js/main.c94ec71a.js",
     "static/media/chill-photo.jpg": "/portfolio/static/media/chill-photo.2664418daddb1a370d91.jpg",
     "static/media/blogpost.png": "/portfolio/static/media/blogpost.fdd21abb6ce33030895c.png",
+    "static/media/my-auto clone.png": "/portfolio/static/media/my-auto clone.5a05d00d87fef36351cd.png",
     "static/media/moonquake.png": "/portfolio/static/media/moonquake.4ea26c8d49256510070c.png",
     "static/media/github-user.png": "/portfolio/static/media/github-user.930c66e550e83094a7e9.png",
     "static/media/planets-info.png": "/portfolio/static/media/planets-info.ec886ec877a67f0ce65b.png",
@@ -11,10 +12,10 @@
     "static/media/interactive-rating.png": "/portfolio/static/media/interactive-rating.80f3b9bf7d7adca62950.png",
     "index.html": "/portfolio/index.html",
     "main.c0abecfb.css.map": "/portfolio/static/css/main.c0abecfb.css.map",
-    "main.0cff989a.js.map": "/portfolio/static/js/main.0cff989a.js.map"
+    "main.c94ec71a.js.map": "/portfolio/static/js/main.c94ec71a.js.map"
   },
   "entrypoints": [
     "static/css/main.c0abecfb.css",
-    "static/js/main.0cff989a.js"
+    "static/js/main.c94ec71a.js"
   ]
 }
