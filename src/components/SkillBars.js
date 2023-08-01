@@ -14,6 +14,7 @@ function SkillBars() {
         <SkillBox name="TypeScript" percent="80%" delay="0.1s" />
         <SkillBox name="Python" percent="85%" delay="0.2s" />
         <SkillBox name="Verilog" percent="40%" delay="0.3s" />
+        <SkillBox name="Git" percent="40%" delay="0.3s" />
         <SkillBox name="React" percent="65%" delay="0.4s" />
         <SkillBox name="Next.js" percent="65%" delay="0.4s" />
         <SkillBox name="OCAML" percent="45%" delay="0.5s" />

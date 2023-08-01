@@ -1,8 +1,9 @@
 import Photo1 from '../images/moonquake.png'
 import Photo2 from '../images/planets-info.png'
 import Photo3 from '../images/blogpost.png'
-import Photo4 from '../images/github-user.png'
-import Photo5 from '../images/interactive-rating.png'
+import Photo4 from '../images/my-auto clone.png'
+import Photo5 from '../images/github-user.png'
+import Photo6 from '../images/interactive-rating.png'
 
 
 
@@ -27,14 +28,20 @@ export const projectsData = [
   },
   {
     id: 4,
-    title: "GitHub User Search",
+    title: "MyAuto Clone",
     img: Photo4,
-    link: "http://nikapankvelashvili.github.io/github-user-search"
+    link: "https://nikapankvelashvili.github.io/myauto-clone/"
   },
   {
     id: 5,
-    title: "Interactive Rating",
+    title: "GitHub User Search",
     img: Photo5,
+    link: "http://nikapankvelashvili.github.io/github-user-search"
+  },
+  {
+    id: 6,
+    title: "Interactive Rating",
+    img: Photo6,
     link: "http://nikapankvelashvili.github.io/interactive-rating"
   },
 ]
